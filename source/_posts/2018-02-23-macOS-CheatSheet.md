@@ -6,6 +6,21 @@ tags:
 
 记录常用的一些命令。
 
+# Git
+
+```bash
+# git config
+git config --global user.name "Meng Fanze"
+git config --global user.email "iFanze@outlook.com"
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+git config --list
+
+# gen SSH key to github
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+```
+
 # homebrew
 
 ```bash

@@ -4,6 +4,8 @@ date: 2018-02-23 16:40:23
 tags:
 ---
 
+> 阅读 Docker 官方文档的笔记。
+
 # Get Started, Part 1: Orientation and setup
 
 ``` bash

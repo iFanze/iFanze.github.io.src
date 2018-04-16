@@ -2,11 +2,16 @@
 title: macOS CheatSheet
 date: 2018-02-23 15:55:07
 tags:
+toc: true
 ---
 
-> 记录常用的一些命令。
+记录常用的一些命令。
 
-# Git
+<!-- more -->
+<!-- toc -->
+
+Git
+===
 
 ```bash
 # git config
@@ -21,7 +26,8 @@ eval $(ssh-agent -s)
 ssh-add ~/.ssh/id_rsa
 ```
 
-# homebrew
+homebrew
+=========
 
 ```bash
 brew doctor
@@ -39,7 +45,8 @@ brew install iterm2
 brew cask list
 ```
 
-# nvm
+nvm
+======
 
 ```bash
 nvm ls-remote
@@ -50,7 +57,8 @@ nvm ls
 nvm alias default v8.9.4
 ```
 
-# hexo
+hexo
+======
 
 ```bash
 hexo new "Post Title"

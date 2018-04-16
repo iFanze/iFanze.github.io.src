@@ -2,11 +2,16 @@
 title: Docker CheatSheet
 date: 2018-02-23 16:40:23
 tags:
+toc: true
 ---
 
-> 阅读 Docker 官方文档的笔记。
+阅读 Docker 官方文档的笔记。
 
-# Get Started, Part 1: Orientation and setup
+<!-- more -->
+<!-- toc -->
+
+Get Started, Part 1: Orientation and setup
+===========================================
 
 ``` bash
 ## List Docker CLI commands
@@ -30,7 +35,8 @@ docker container ls -all
 docker container ls -a -q
 ```
 
-# Get Started, Part 2: Containers
+## Get Started, Part 2: Containers
+===================================
 
 ```bash
 docker build -t friendlyhello .  # Create image using this directory's Dockerfile

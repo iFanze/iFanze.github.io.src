@@ -1,7 +1,13 @@
 ---
 title: macOS CheatSheet
 date: 2018-02-23 15:55:07
-tags:
+categories: 笔记
+tags: 
+    - macOS 
+    - git 
+    - homebrew 
+    - nodejs 
+    - blog
 toc: true
 ---
 

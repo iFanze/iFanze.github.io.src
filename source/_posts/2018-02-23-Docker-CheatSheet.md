@@ -1,7 +1,9 @@
 ---
 title: Docker CheatSheet
 date: 2018-02-23 16:40:23
-tags:
+categories: 笔记
+tags: 
+    - docker
 toc: true
 ---
 

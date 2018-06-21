@@ -1,5 +1,5 @@
 ---
-title: 《C++ Primer》笔记
+title: 《Effective C++》笔记
 date: 2018-04-10 16:53:56
 categories: 笔记
 tags: 
@@ -8,7 +8,7 @@ toc: true
 comments: true
 ---
 
-刚入职时看《C++ Primer》记录的笔记
+刚入职时看《Effective C++》记录的笔记
 
 <!-- more -->
 <!-- toc -->

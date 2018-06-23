@@ -24,7 +24,7 @@ layout: about
 
 ## 书单
 
-- [ ] 《C++ Primer（第五版）》**[读书笔记](/tags/《C-Primer》/)** *Reading* 
+- [ ] 《C++ Primer（第五版）》**[读书笔记](/categories/《C-Primer》/)** *Reading* 
 - [ ] 《代码大全2》 *Reading*
 - [ ] 《深入理解计算机系统（第三版）》 *Reading*
 - [ ] 《Linux/Unix 系统编程手册》

@@ -86,23 +86,26 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: 欢迎友链～
+    url: http://ifanze.cn
 
 timeline:
   - num: 1
-    word: 2017/06/23-本站建立
+    word: "大学期间 - 依次使用为知笔记、印象笔记、OneNote 等工具做知识管理（剪辑+整理）。"
   - num: 2
-    word: 2017/06/23-本站建立
+    word: "2015.7 - 利用本科学习的 Web 知识，运用 CMS 系统搭建个人网站。"
   - num: 3
-    word: 2017/06/23-本站建立
+    word: "2016.8 - 开始使用 Github 默认推荐的 Jekyll 搭建静态页面博客，注册了域名。"
   - num: 4
-    word: 2017/06/23-本站建立
+    word: "2017.12 - 使用 Hexo 重新搭建，主题使用 Maupassant。清理了没有营养的文章。"
+  - num: 5
+    word: "2018.2 - 域名备案，将本站绑定到域名 http://ifanze.cn。"
+  - num: 6
+    word: "2018.6 - 加入评论系统 Valine。"
+  - num: 7
+    word: "Updating..."
 
+  
 # Static files
 js: js
 css: css

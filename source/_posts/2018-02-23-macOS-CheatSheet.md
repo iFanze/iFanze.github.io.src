@@ -3,11 +3,8 @@ title: macOS CheatSheet
 date: 2018-02-23 15:55:07
 categories: 笔记
 tags: 
-    - macOS 
-    - git 
-    - homebrew 
-    - nodejs 
-    - blog
+    - 参考
+    - macOS
 toc: true
 ---
 
@@ -15,22 +12,6 @@ toc: true
 
 <!-- more -->
 <!-- toc -->
-
-Git
-===
-
-```bash
-# git config
-git config --global user.name "Meng Fanze"
-git config --global user.email "iFanze@outlook.com"
-git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
-git config --list
-
-# gen SSH key to github
-ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-eval $(ssh-agent -s)
-ssh-add ~/.ssh/id_rsa
-```
 
 homebrew
 =========

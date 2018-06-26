@@ -38,6 +38,7 @@ fi;
     - `#`用于按最短截断字符串，`##`用于按最长截断。
     - `-eq`、`-ne`等只能用于数值，不能用于字符串。
     - 字符串操作：https://blog.csdn.net/dongwuming/article/details/50605911
+    - 命令行参数识别：https://www.jianshu.com/p/761b19247979
 
 ### 2. 检查所有使用命令的可用性
 
